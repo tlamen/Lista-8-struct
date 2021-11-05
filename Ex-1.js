@@ -24,4 +24,3 @@ function pares(numeros) {
     return numeros_pares
 }
 
-console.log(pares(a))
