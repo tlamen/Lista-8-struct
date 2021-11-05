@@ -1,3 +1,5 @@
+// Questao extra -
+
 function acharQuadradosPerfeitos(numero) {
     const raiz = Math.sqrt(numero)
     if (Number.isInteger(raiz)) {
